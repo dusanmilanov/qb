@@ -1,0 +1,8 @@
+Idea:
+- Query tree serves as an API
+- we can internally add hints for later processing
+    - use a table as source / use a query
+- the Query tree is then used to construct the SQL (AST) tree
+- the SQL tree is used to
+    - create the sql text
+    - create the query over the in-memory database
