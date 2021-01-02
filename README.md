@@ -1,0 +1,2 @@
+# qb
+Golang query builder
